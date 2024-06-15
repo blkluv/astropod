@@ -10,4 +10,4 @@ episode: 1
 season: 1
 episodeType: full
 ---
-This is an episode demo of Astropod coming soon.
+This is an episode demo of ATL5D ATLCAST coming soon.
